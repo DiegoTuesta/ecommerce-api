@@ -7,6 +7,10 @@
 * JWT
 * Bycryp
 * Express validator
+* EJS
+* Morgan
+* multer
+* nodemailer
 
 ### Link
 [Deploy](https://ecommerce-api-0bt5.onrender.com)
